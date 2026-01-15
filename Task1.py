@@ -12,7 +12,7 @@ name = "Shivakant Gautam"
 internship_name = "Web Development using Python and Django framework"
 day_number = 2 
 
-print("=== Introduction ===")
+print(" Introduction")
 print("Name:", name)
 print("Internship:", internship_name)
 print("Day number:", day_number)
